@@ -1,0 +1,63 @@
+
+*
+{
+    margin: o;
+    padding: 0;
+    text-decoration: none;
+}
+
+   
+
+.navbar
+{
+    
+    background: rgb(211, 130, 143);
+    border-radius: 30px;
+    font-family: calibri;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.navdiv
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo a{
+    font-size: 25px;
+    font-weight: 600;
+    color: white;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    color: white;
+    margin-right: 60px;
+}
+button{
+    background-color:rgb(118, 243, 243);
+    margin-left: 10px;
+    margin-right: 40px;
+    border-radius: 5px;
+    text-align: center;
+ 
+}
+button a{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+.background
+{
+    height: 0;
+    width: 100%;
+    padding: 0;
+    padding-bottom: 35%;
+    background-image: url("Beige\ Minimalist\ Mother\'s\ Day\ Sale\ Promotional\ Banner_20240502_172022_0000.png");
+    background-size: cover;
+    background-position: center;
+
+    
+}
